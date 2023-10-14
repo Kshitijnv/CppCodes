@@ -1,5 +1,6 @@
 #include<iostream>
 int main() { 
+    //Extract the first digit of a given number
 int num,digit;
 std::cout<<"Enter a number : ";
 std::cin>>num;

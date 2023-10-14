@@ -1,7 +1,7 @@
 #include<iostream>
 int main()
 {
-   
+   //Finf the reverse of a number
     int num,rev,digit;
     std::cout<<"Enter the number = ";
     std::cin>>num;

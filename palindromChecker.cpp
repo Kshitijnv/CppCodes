@@ -1,6 +1,8 @@
 #include<iostream>
 int main()
 {
+    //To check the given number is plaindrome or not
+    //Palindrome ex: 121,131,343,787,998899,....
     int num,digit,rev=0,onum;
     std::cout<<"Enter the number = ";
     std::cin>>num;

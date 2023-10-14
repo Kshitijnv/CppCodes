@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
+    //It will count the occurence of a digit in a number
     int num, digit,count = 0;
     std::cout << "Enter a positive integer: ";
     std::cin >> num;

@@ -1,6 +1,7 @@
 #include<iostream>
 #include<math.h>
 int main(){
+    //To check the given number is armstrong or not
     int num,onum,count=0,j,digit,result=0,finalnum;
     std::cout<<"Enter the number = ";
     std::cin>>num;

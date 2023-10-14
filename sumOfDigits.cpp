@@ -1,10 +1,12 @@
 #include<iostream>
 int main() { 
+    //It will calculate the sum of each digit of a positive given number
 int num,sum=0,digit;
 std::cout<<"Enter a number : ";
 std::cin>>num;
 if(num<0){
-   num=-num;
+    std::cout<<"Number should be a positive integer number  ";
+    return 1;
 }
 
 while(num!=0){

@@ -1,5 +1,6 @@
 #include<iostream>
 int main(){
+    //It will calculate the product of each digit of a positive given number
     int num,onum,digit,result=1;
     std::cout<<"Enter the number = ";
     std::cin>>num;

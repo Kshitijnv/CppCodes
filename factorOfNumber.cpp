@@ -1,6 +1,7 @@
 #include<iostream>
 int main()
 {
+    //To calculate the factors of a given number
     int num;
     std::cout<<"Enter the number = ";
     std::cin>>num;

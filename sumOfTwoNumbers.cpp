@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
+    //Sum of two positive given numbers
 int N, M;
     
 std::cout << "Enter the first positive integer (N): ";

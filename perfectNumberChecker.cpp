@@ -1,6 +1,7 @@
 #include<iostream>
 int main()
 {
+    //To check the given number is a perfect number
     int num,sum=0;
     std::cout<<"Enter the number = ";
     std::cin>>num;

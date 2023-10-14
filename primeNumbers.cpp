@@ -1,5 +1,6 @@
 #include<iostream>
 int main(){
+    //Print the prime numbers between two given numbers
     int start,end,count;
     std::cout<<"Enter the starting number=";
     std::cin>>start;
