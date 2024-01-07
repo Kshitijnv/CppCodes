@@ -1,4 +1,4 @@
-//It is a simple menu-driven program that computes the area and circumference of a circle, the area and perimeter of a rectangle based on the user's choice. 
+// It is a simple menu-driven program that computes the area and circumference of a circle, the area and perimeter of a rectangle based on the user's choice.
 #include <iostream>
 #include <cmath>
 using namespace std;

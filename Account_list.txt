@@ -1,0 +1,30 @@
+Account Number: 101
+Account Name: kshitij Varshney
+Account Type:  SAVING 
+Account Balance: 0
+-------------------
+Account Number: 102
+Account Name: Arun DAC
+Account Type:  CURRENT 
+Account Balance: 1000
+-------------------
+Account Number: 103
+Account Name: shubham
+Account Type:  CURRENT 
+Account Balance: 1000
+-------------------
+Account Number: 104
+Account Name: naman
+Account Type:  CURRENT 
+Account Balance: 3000
+-------------------
+Account Number: 105
+Account Name: kshiitttt
+Account Type:  SAVING 
+Account Balance: 0
+-------------------
+Account Number: 106
+Account Name: fedfed
+Account Type:  CURRENT 
+Account Balance: 1000
+-------------------
